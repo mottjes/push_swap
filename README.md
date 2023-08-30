@@ -2,9 +2,9 @@
 
 You have 2 stacks named a and b.
 
-  ◦ The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.
+    ◦ The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.
 
-  ◦ The stack b is empty.
+    ◦ The stack b is empty.
 
 
 The goal is to sort in ascending order numbers into stack a. 
