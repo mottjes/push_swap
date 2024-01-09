@@ -5,12 +5,12 @@
 This program sorts data on a stack, with a limited set of instructions, using the lowest possible number of actions. 
 For this you have 2 stacks named a and b.
 
-For the sorting i implemented radix sort.
-
 The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.
 and the stack b is empty.
 
 The goal is to sort in ascending order numbers into stack a. 
+
+For the sorting i implemented ``radix sort``.
 
 To do so you have the following operations at your disposal:
 
@@ -43,6 +43,8 @@ To do so you have the following operations at your disposal:
   The last element becomes the first one.
   
   ◦ rrr : rra and rrb at the same time.
+
+  For more detail: The subject pdf is inside of the project folder.
 
 ### Usage
 
