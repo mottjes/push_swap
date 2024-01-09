@@ -44,7 +44,7 @@ To do so you have the following operations at your disposal:
   
     ◦ rrr : rra and rrb at the same time.
 
-    For more detail: The subject pdf is inside of the project folder.
+For more detail: The subject pdf is inside of the project folder.
 
 ### Usage
 
