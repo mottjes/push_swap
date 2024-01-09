@@ -1,15 +1,18 @@
 # push_swap
 
-You have 2 stacks named a and b.
+### Description
 
-◦ The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.
+This program sorts data on a stack, with a limited set of instructions, using the lowest possible number of actions. 
+For this you have 2 stacks named a and b.
 
-◦ The stack b is empty.
+For the sorting i implemented radix sort.
 
+The stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.
+and the stack b is empty.
 
 The goal is to sort in ascending order numbers into stack a. 
-To do so you have the following operations at your disposal:
 
+To do so you have the following operations at your disposal:
 
   ◦ sa (swap a): Swap the first 2 elements at the top of stack a.
   Do nothing if there is only one or no elements.
@@ -41,6 +44,12 @@ To do so you have the following operations at your disposal:
   
   ◦ rrr : rra and rrb at the same time.
 
-# How it looks
+### Usage
+
+``make`` to compile and to create the excutable
+
+``./push_swap <numbers to sort>``prints the instructions for sorting the stack
+
+### Visualisation
 
 ![Screen-Recording-2023-08-30-at-4 47 00-PM](https://github.com/mottjes/push_swap/assets/127018222/f0a37407-932d-41e3-b53e-b306974db86b)
